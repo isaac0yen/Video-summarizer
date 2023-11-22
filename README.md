@@ -41,10 +41,10 @@ Before using the tool, ensure you have the following:
 4. Run the tool with a YouTube video URL:
 
    ```bash
-   node index.js
+   node youtube.js
    ```
 
-   Make sure the youtube URL is being put into the `index.js` file
+   Make sure the youtube URL is being put into the `youtube.js` file
 
 5. The tool will download, transcribe, and summarize the video, providing a summary in the console and saving it in a `summary.txt` file.
 
